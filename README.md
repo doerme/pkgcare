@@ -11,9 +11,9 @@ In the npm script / package.json `script` value
 //...
 "script": {
     "incversion": "pkgcare inc",  // version 1.0.0 change to 1.0.1  or version 1.0.0-beta.1 change to 1.0.0
-    "incprerelease": "pkgcare inc prerelease", // version 1.0.0-beta.1 change to 1.0.0-beta.2  !!todo
-    "incminor": "pkgcare inc prerelease", // version 1.0.0 change to 1.1.0  !!todo
-    "incmajor": "pkgcare inc major" // version 1.0.0 change to 2.0.0  !!todo
+    // "incprerelease": "pkgcare inc prerelease", // version 1.0.0-beta.1 change to 1.0.0-beta.2  !!todo
+    // "incminor": "pkgcare inc prerelease", // version 1.0.0 change to 1.1.0  !!todo
+    // "incmajor": "pkgcare inc major" // version 1.0.0 change to 2.0.0  !!todo
 }
 //...
 
